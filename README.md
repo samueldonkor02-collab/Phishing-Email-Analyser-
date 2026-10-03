@@ -1,4 +1,4 @@
-Phishing Email Analyser (Directing an AI Coding Agent to Build a Privacy First Triage Tool)
+ # Phishing Email Analyser (Directing an AI Coding Agent to Build a Privacy First Triage Tool)
 
 A free, private phishing email analyser that runs entirely in your browser paste an email, get a 0–100 risk score with plain-English explanations. No servers, no tracking
 
